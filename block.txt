@@ -16,3 +16,4 @@
 /phim69/
 /heo69/
 /phimheo/
+/adclick/
