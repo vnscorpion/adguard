@@ -17,3 +17,4 @@
 /heo69/
 /phimheo/
 /adclick/
+/adtimaserver/
