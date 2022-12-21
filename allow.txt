@@ -17,4 +17,4 @@
 @@||mauwebdep.tk^
 @@||wpnull.org^
 @@||ads.google.com
-@@||widget.zalo.me^
+@@||page.widget.zalo.me
