@@ -19,3 +19,4 @@
 /adclick/
 /adtima/
 /ytd-in-feed-ad-layout-renderer/
+/ad-showing/
