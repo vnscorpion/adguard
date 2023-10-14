@@ -20,3 +20,4 @@
 /adtima/
 /ytd-in-feed-ad-layout-renderer/
 /ad-showing/
+/ad-created/
