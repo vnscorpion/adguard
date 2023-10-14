@@ -18,3 +18,4 @@
 /phimheo/
 /adclick/
 /adtima/
+/ytd-in-feed-ad-layout-renderer/
