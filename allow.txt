@@ -18,3 +18,4 @@
 @@||wpnull.org^
 @@||ads.google.com
 @@||page.widget.zalo.me
+@@||sgp1.digitaloceanspaces.com
